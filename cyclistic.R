@@ -2,7 +2,7 @@ library(tidyverse)
 library(dplyr)
 library(data.table)
 #Setting Working Directory
-setwd("D:/Courses/Google Data Analytics/Google Data Analytics Capston Project")
+setwd("Google Data Analytics/Google Data Analytics Capston Project")
 
 #Making File Names List
 
